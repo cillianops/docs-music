@@ -24,3 +24,49 @@
 18. **World Music** (世界音乐)  
 19. **Opera** (歌剧)  
 20. **New Age** (新世纪音乐)  
+
+##  Musical Rhythms 
+1. **4/4 Time (Common Time)**  
+   - Translation: **四四拍（常用拍）**
+
+2. **3/4 Time (Waltz Time)**  
+   - Translation: **三四拍（华尔兹拍）**
+
+3. **6/8 Time (Compound Duple)**  
+   - Translation: **六八拍（复二拍）**
+
+4. **2/4 Time (March Time)**  
+   - Translation: **二四拍（进行曲拍）**
+
+5. **12/8 Time (Compound Quadruple)**  
+   - Translation: **十二八拍（复四拍）**
+
+6. **5/4 Time (Irregular Time)**  
+   - Translation: **五四拍（不规则拍）**
+
+7. **7/8 Time (Irregular Time)**  
+   - Translation: **七八拍（不规则拍）**
+
+8. **Swing Rhythm**  
+   - Translation: **摇摆节奏**
+
+9. **Syncopation**  
+   - Translation: **切分节奏**
+
+10. **Polyrhythm**  
+    - Translation: **多重节奏**
+
+11. **Reggae Rhythm**  
+    - Translation: **雷鬼节奏**
+
+12. **Shuffle Rhythm**  
+    - Translation: **洗牌节奏**
+
+13. **Funk Groove**  
+    - Translation: **放克律动**
+
+14. **Rumba Rhythm**  
+    - Translation: **伦巴节奏**
+
+15. **Bossa Nova Rhythm**  
+    - Translation: **波萨诺瓦节奏**
