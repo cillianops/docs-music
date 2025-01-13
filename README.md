@@ -162,4 +162,20 @@
 2. **Jazz Theory**  
    - Translation: **爵士音乐理论**  
    - Description: Based on improvisation, swing rhythms, and advanced harmonic structures.
+  
+### **1. Basic Knowledge: Building a Strong Foundation**
+
+#### **(1) Notes and Rhythm**
+- **Notes**: Learn the basic note durations (whole note, half note, quarter note, etc.).  
+- **Rhythm**: Understand time signatures (e.g., 4/4, 3/4) and basic rhythmic patterns.
+
+#### **(2) Scales and Intervals**
+- **Scales**: Start with the C major scale and learn how major and minor scales are constructed.  
+- **Intervals**: Understand the distance between two notes, including degrees (e.g., second, third) and qualities (major, minor, augmented, diminished).
+
+#### **(3) Clefs and Staff Notation**
+- Get familiar with the treble clef (G clef) and bass clef (F clef).  
+- Learn to identify the positions of notes on the staff.
+
+
 
